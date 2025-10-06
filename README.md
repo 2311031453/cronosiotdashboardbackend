@@ -59,4 +59,5 @@ Dokumentasi API
 6. Notifikasi dengan metode GET
 <img width="677" height="492" alt="200notification" src="https://github.com/user-attachments/assets/4fa0f859-999d-4317-9db8-ef9d8c258553" />
 
-
+📞 Kontak
+G-Mail : jokopramonoramadhani@gmail.com
