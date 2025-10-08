@@ -62,6 +62,9 @@ Dokumentasi API
 7. Profil dengan metode GET
 <img width="676" height="493" alt="profile200" src="https://github.com/user-attachments/assets/2110441a-bf34-4bc4-b41f-995eacb0a89a" />
 
+8. Health dengan metode GET
+<img width="676" height="491" alt="health200" src="https://github.com/user-attachments/assets/18637252-a146-4690-a63f-728876df2757" />
+
 
 📞 Kontak
 G-Mail : jokopramonoramadhani@gmail.com
